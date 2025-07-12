@@ -10,8 +10,8 @@ class script(object):
 ★ Library: <a href=https://t.me/HydrogramNews>Hydrogram</a>"""
 
     MY_OWNER_TXT = """★ Name: HA Bots
-★ Username: @HA_Bots
-★ Country: Sri Lanka 🇱🇰"""
+★ Username: @NaChannel4
+★ Country: India 🇮🇳"""
 
     STATUS_TXT = """👤 Total Users: <code>{}</code>
 😎 Premium Users: <code>{}</code>
